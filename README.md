@@ -79,12 +79,12 @@
 - **Lesson 12.2**: Building and Managing Community Networks
 - **Lesson 12.3**: Real-world Applications and Case Studies
 
-  ## Module 13: Internet of Things (IoT) and Decentralization
+## Module 13: Internet of Things (IoT) and Decentralization
 - **Lesson 13.1**: Decentralized Architectures for IoT
 - **Lesson 13.2**: Challenges in IoT Decentralization
 - **Lesson 13.3**: Case Studies of Decentralized IoT Systems
 
-  ## Module 14: Legal and Ethical Aspects of Decentralization
+## Module 14: Legal and Ethical Aspects of Decentralization
 - **Lesson 14.1**: Regulatory Challenges for Decentralized Technologies
 - **Lesson 14.2**: Intellectual Property Considerations
 - **Lesson 14.3**: Ethical Dilemmas and Decentralized Governance
