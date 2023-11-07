@@ -71,3 +71,11 @@
 - **Lesson 10.2**: Applications of ZK-SNARKs and ZK-STARKs
 - **Lesson 10.3**: Enhancing Privacy in Decentralized Systems
 
+## Module 11: Distributed Computing and Processing
+- **Lesson 11.1**: Grid Computing vs. Distributed Computing
+
+## Module 12: Mesh Networks and Community Networks
+- **Lesson 12.1**: Principles of Mesh Networking
+- **Lesson 12.2**: Building and Managing Community Networks
+- **Lesson 12.3**: Real-world Applications and Case Studies
+
