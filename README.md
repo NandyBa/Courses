@@ -89,5 +89,16 @@
 - **Lesson 14.2**: Intellectual Property Considerations
 - **Lesson 14.3**: Ethical Dilemmas and Decentralized Governance
 
+## Possible workshops
+
+| Workshop ID | Workshop Title                       | Module Connection    | Workshop Description                                                                                      |
+|-------------|--------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------|
+| W1          | P2P Protocol Exploration Workshop    | Module 1             | Students will explore different P2P protocols in a lab setting, set up their own P2P network, and analyze performance and scalability issues. |
+| W2          | Smart Contract Development Lab       | Module 3             | A coding session where students will learn to write, deploy, and interact with smart contracts using a blockchain development framework. |
+| W3          | Consensus Mechanism Simulation       | Module 4             | Teams will simulate various consensus mechanisms, analyze their energy efficiency, transaction throughput, and security trade-offs. |
+| W4          | Decentralized Storage Hackathon      | Module 5             | A challenge for students to use IPFS to create a decentralized application for file storage and sharing, assessing its efficiency and usability. |
+| W5          | Redundancy Protocol Design Sprint    | Module 6             | An interactive design sprint where students propose and prototype their own data redundancy protocols for decentralized networks. |
+| W6          | DAO Role-play and Simulation         | Module 9             | A role-playing workshop where students form DAOs, propose projects, vote on initiatives, and discuss governance challenges. |
+
 
 
