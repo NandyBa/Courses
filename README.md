@@ -2,7 +2,7 @@
 
 ## Brainstorming:
 
-- Torent
+- Torrent
 - Protocol de type IPFS, Filecoin
 - Blockchain : consensus, DeFi, DAO
 - Peer-to-Peer Networks
