@@ -84,5 +84,10 @@
 - **Lesson 13.2**: Challenges in IoT Decentralization
 - **Lesson 13.3**: Case Studies of Decentralized IoT Systems
 
+  ## Module 14: Legal and Ethical Aspects of Decentralization
+- **Lesson 14.1**: Regulatory Challenges for Decentralized Technologies
+- **Lesson 14.2**: Intellectual Property Considerations
+- **Lesson 14.3**: Ethical Dilemmas and Decentralized Governance
+
 
 
