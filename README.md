@@ -79,3 +79,10 @@
 - **Lesson 12.2**: Building and Managing Community Networks
 - **Lesson 12.3**: Real-world Applications and Case Studies
 
+  ## Module 13: Internet of Things (IoT) and Decentralization
+- **Lesson 13.1**: Decentralized Architectures for IoT
+- **Lesson 13.2**: Challenges in IoT Decentralization
+- **Lesson 13.3**: Case Studies of Decentralized IoT Systems
+
+
+
